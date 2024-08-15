@@ -16,7 +16,7 @@ This project is particularly valuable for:
 #### Excel Users: Offers a practical example of how to use VBA for advanced data analysis, which can be adapted to other financial datasets.
 ## Getting Started
 ### Prerequisites
-#### Microsoft Excel: The script is written in VBA (Visual Basic for Applications), which is a part of Microsoft Excel. Ensure you have Excel installed on your computer.
+#### Microsoft Excel: The script is written in VBA (Visual Basic for Applications), which is a part of Microsoft Excel. Ensure that Excel installed on your computer.
 #### Basic Understanding of VBA: Familiarity with VBA will help you modify and extend the script according to your needs.
 ### Example Results
 After running the script, the results for each quarter will be displayed within the Excel file. These results include:
